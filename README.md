@@ -8,7 +8,7 @@ The Diet Recommendation System uses a pre-trained machine learning model to reco
 
 ## Prerequisites
 
-- Python 3.x
+- Python >= 3.8
 - Streamlit
 - pandas
 - PIL (Pillow)
